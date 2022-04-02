@@ -1,1 +1,1 @@
-# Scrum presentation with Shower https://github.com/shower
+Scrum presentation with Shower https://github.com/shower
